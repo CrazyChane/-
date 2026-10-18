@@ -1,0 +1,8 @@
+Дизайн в Figma:
+https://www.figma.com/design/re3QQNKe7ASZN8QzmnCkfe?node-id=3-2
+
+Сайт:
+http://rlybot2o.beget.tech/
+
+Архив сайта:
+https://github.com/CrazyChane/-/blob/main/library-source.zip
